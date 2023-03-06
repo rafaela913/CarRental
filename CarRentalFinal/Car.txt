@@ -1,0 +1,6 @@
+Registration Number: ABC 123
+Model: Civic
+Brand: Honda
+Year Of Manufacture: 2020
+Daily Rental Price: 75.5
+Fuel Type: Petrol

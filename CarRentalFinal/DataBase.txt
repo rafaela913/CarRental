@@ -1,0 +1,14 @@
+Cars: 
+
+
+ABC 123 Civic Honda 2020  75.5 Petrol
+
+nullClients: 
+
+
+unknown unknown unknown trueRentals: 
+
+
+is not available 
+The client is: null 
+The car is: null 0 0.0 true

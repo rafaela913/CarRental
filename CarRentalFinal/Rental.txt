@@ -1,0 +1,6 @@
+Code: 1001
+Client: radu 0767893415 19999999999 false
+Car: ABC 123 Civic Honda 2020  75.5 Petrol
+Days: 2
+Cost: 151.0
+Return Without Issues: true
